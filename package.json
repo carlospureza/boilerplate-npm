@@ -8,9 +8,9 @@
 		"start": "node server.js"
 	},
 	"author": "Carlos Pureza",
+		"description": "Projeto Modelo do Free Code Camp para Desenvolvimento Node Js para BackEnd.",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/carlospureza/boilerplate-npm.git"
 	},
-	"description": "Projeto Modelo do Free Code Camp para Desenvolvimento Node Js para BackEnd",
 }
